@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello, I'm Kayley Wells 👋
+#### About Me
+🎓 Computer Information Systems student at Wayne State College
 
-<!--
-**kayley-wells/kayley-wells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Expected to graduate in 2028
 
-Here are some ideas to get you started:
+🌟 Passionate about friends, family, and gaming
+#### What I'm Learning
+- Networking
+- Cybersecurity
+- Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Get in Touch
+
+📧 Email: kawell03@wsc.edu
+
+💼 LinkedIn: www.linkedin.com/in/kayley-wells-a2a503350
